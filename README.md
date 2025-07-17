@@ -23,6 +23,6 @@ GLE_framework/
 ├── 1_convert_xvg_h5.py   # Convert .xvg trajectory files to HDF5
 ├── 2_MSD.py              # Compute MSD, fit α & Dα
 ├── VACF.py               # Compute VACF using velocity data + α, Dα
-├── MF.py                 # Derive memory/friction kernel via GLE
+├── MF.py                 # Derive memory kernel via GLE
 ├── LICENSE               # MIT License
 └── README.md             # This documentation
