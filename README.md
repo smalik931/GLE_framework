@@ -12,7 +12,7 @@ This project focuses on structural and dynamical analysis of lipid trajectories 
 
 - **Mean squared displacement (MSD)** → anomalous diffusion exponent (α) & diffusion coefficient (Dα)  
 - **Velocity autocorrelation function (VACF)** using α and Dα as input  
-- **Memory/friction kernel** derived via the Generalized Langevin Equation (GLE)
+- **Memory function** derived via the Generalized Langevin Equation (GLE)
 
 ---
 
