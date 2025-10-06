@@ -26,3 +26,7 @@ GLE_framework/
 ├── MF.py                 # Derive memory kernel via GLE
 ├── LICENSE               # MIT License
 └── README.md             # This documentation
+
+## Work summary
+
+Given in poster.png/pdf file
